@@ -22,7 +22,7 @@ GitHub Spark marks a significant advancement in democratizing app development, e
 ## Contact me
 If you need more technical support and development inquires, you can contact below.
 
-X: [@james980114](https://x.com/james980114)
+X: [@ilertha](https://x.com/ilertha)
 
 Discord: [@Benix](https://discordapp.com/users/393598468653842432)
 
